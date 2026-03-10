@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "jRVrDGXyQPtdhn5ro3L5DXrxJrY2cHTca0EzydaNv2E=",
+  "Source": "NumberAPI",
+  "BasePath": "_content/NumberAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
