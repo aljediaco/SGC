@@ -1,0 +1,27 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ASP.NET / .NET
+*.dbmdl
+*.jfm
+Properties/launchSettings.json
+
+# Angular / Node
+node_modules/
+dist/
+.angular/
+.cache/
+coverage/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
